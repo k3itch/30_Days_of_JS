@@ -1,17 +1,17 @@
-Data types
+# Data types
 Types:
     1) Primitive data types
     2) Non-primitive data types(Object References)
 
 
-Primitive Data types
+# Primitive Data types
 1) Numbers - Integers, Floats
 2) Strings - Any data under single quote, double quote or backtick quote
 3) Booleans - true or false value
 4) Null - empty value or no value
 5) Undefined - a declared value without a value
 
-Non-Primitive Data types in JS includes:
+# Non-Primitive Data types in JS includes:
 1) Objects
 2) Functions 
 3) Arrays
@@ -38,7 +38,7 @@ let lightOne = true
 let lightOff = false
 console.log(lightOne = lightOff) //false
 
-Non-Primitive Data Types
+# Non-Primitive Data Types
 
 Non-primitive data types are modifiable or mutable. We can modify the value of non-primitive data types after it gets created. Let us see by creating an array. An array is a list of data types in a square bracket. Array can contain same or different data types. Array values are referenced by their index. In JS array index starts at zero i.e. the first element of an array is found at index zero, the second element at index one, and the third element at index two and same goes on. :)
 
@@ -88,7 +88,7 @@ console.log(userOne == userTwo)  // true
 Rest you can read from this repository. I don't think I would be able to copy and type more to increase my typing speed :'-)
 https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md
 
-Numbers
+# Numbers
 
 Declaring Number Data types
  let age = 19
@@ -105,4 +105,8 @@ Declaring Number Data types
 
 # MathObject
  
- In JS 
+ In JS the math object provides a lot of methods to work with numbers
+ 
+ const PI = Math.PI
+
+ console.log(PI)
