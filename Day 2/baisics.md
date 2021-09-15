@@ -85,3 +85,24 @@ let userTwo = userOne
 
 console.log(userOne == userTwo)  // true
 
+Rest you can read from this repository. I don't think I would be able to copy and type more to increase my typing speed :'-)
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md
+
+Numbers
+
+Declaring Number Data types
+ let age = 19
+ const gravity = 9.81 // use const for non-changing values and similar stuff
+ let mass = 72 
+ const PI = 3.14
+
+ //More Examples 
+ const boilingPoint = 100 
+ const bodyTemp = 37
+
+ console.log(age, gravity, mass, PI, boilingPoint, bodyTemp)
+
+
+**MathObject**
+ 
+ In JS 
