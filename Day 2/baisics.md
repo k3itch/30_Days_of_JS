@@ -103,6 +103,6 @@ Declaring Number Data types
  console.log(age, gravity, mass, PI, boilingPoint, bodyTemp)
 
 
-**MathObject**
+# MathObject
  
  In JS 
